@@ -1,0 +1,1 @@
+Criando o desafio __FINITE_MATH_ONLY__
